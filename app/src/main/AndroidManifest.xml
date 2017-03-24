@@ -26,6 +26,12 @@
         </activity>
         <activity android:name=".DaftarActivity">
         </activity>
+        <activity android:name=".ListActivity">
+        </activity>
+        <activity android:name=".DetailKendaraanActivity">
+        </activity>
+        <activity android:name=".ReviewActivity">
+        </activity>
     </application>
 
 </manifest>

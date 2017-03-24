@@ -19,4 +19,78 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string-array name="mobil_array">
+        <item>Avanza</item>
+        <item>Xenia</item>
+        <item>Jazz</item>
+        <item>Innova</item>
+        <item>Ertiga</item>
+    </string-array>
+    <string-array name="motor_array">
+        <item>Mio</item>
+        <item>Beat</item>
+        <item>Supra</item>
+        <item>Ninja</item>
+        <item>Nmax</item>
+    </string-array>
+    <string-array name="Avanza">
+        <item>Avanza</item>
+        <item>Rp. 200.000</item>
+        <item>5</item>
+        <item>Hitam, Putih, Abu</item>
+    </string-array>
+    <string-array name="Xenia">
+        <item>Xenia</item>
+        <item>Rp. 200.000</item>
+        <item>5</item>
+        <item>Hitam, Putih, Abu</item>
+    </string-array>
+    <string-array name="Jazz">
+        <item>Jazz</item>
+        <item>Rp. 250.000</item>
+        <item>5</item>
+        <item>Hitam, Putih, Abu</item>
+    </string-array>
+    <string-array name="Innova">
+        <item>Innova</item>
+        <item>Rp. 275.000</item>
+        <item>5</item>
+        <item>Hitam, Putih, Abu</item>
+    </string-array>
+    <string-array name="Ertiga">
+        <item>Ertiga</item>
+        <item>Rp. 255.000</item>
+        <item>5</item>
+        <item>Hitam, Merah, Biru</item>
+    </string-array>
+    <string-array name="Mio">
+        <item>Mio</item>
+        <item>Rp. 50.000</item>
+        <item>5</item>
+        <item>Hitam, Merah, Biru</item>
+    </string-array>
+    <string-array name="Beat">
+        <item>Beat</item>
+        <item>Rp. 55.000</item>
+        <item>5</item>
+        <item>Hitam, Merah, Biru</item>
+    </string-array>
+    <string-array name="Supra">
+        <item>Supra</item>
+        <item>Rp. 40.000</item>
+        <item>5</item>
+        <item>Hitam, Merah, Biru</item>
+    </string-array>
+    <string-array name="Ninja">
+        <item>Ninja</item>
+        <item>Rp. 85.000</item>
+        <item>5</item>
+        <item>Hijau, Merah, Putih</item>
+    </string-array>
+    <string-array name="Nmax">
+        <item>Nmax</item>
+        <item>Rp. 75.000</item>
+        <item>5</item>
+        <item>Hitam, Abu, Merah</item>
+    </string-array>
 </resources>
